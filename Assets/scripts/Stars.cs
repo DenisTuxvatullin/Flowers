@@ -37,15 +37,15 @@ public class Stars : MonoBehaviour {
         string D = reader.ReadLine();
         string E = reader.ReadLine();
         /////////////////////////////////1
-        if (A == "1")
+        if (A == "3")
         {
             s1.sprite = star3;
         }
-        if (A == "2")
+        if (A == "4")
         {
             s1.sprite = star2;
         }
-        if (A == "3")
+        if (A == "5")
         {
             s1.sprite = star1;
         }
@@ -63,41 +63,41 @@ public class Stars : MonoBehaviour {
             s2.sprite = star2;
         }
         /////////////////////////////3
-        if (C == "2")
+        if (C == "4")
         {
             s3.sprite = star3;
         }
-        if (C == "3")
+        if (C == "5")
         {
             s3.sprite = star2;
         }
-        if (C == "4")
+        if (C == "6")
         {
             s3.sprite = star1;
         }
         ////////////////////////////////4
-        if (D == "1")
+        if (D == "5")
         {
             s4.sprite = star3;
         }
-        if (D == "2")
+        if (D == "6")
         {
             s4.sprite = star2;
         }
-        if (D == "3")
+        if (D == "7")
         {
             s4.sprite = star1;
         }
         ////////////////////////////////5
-        if (E == "1")
+        if (E == "6")
         {
             s5.sprite = star3;
         }
-        if (E == "2")
+        if (E == "7")
         {
             s5.sprite = star2;
         }
-        if (E == "3")
+        if (E == "8")
         {
             s5.sprite = star1;
         }

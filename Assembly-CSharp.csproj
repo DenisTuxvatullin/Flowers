@@ -48,9 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\scripts\Audio2.cs" />
      <Compile Include="Assets\scripts\CurrentFlower.cs" />
-     <Compile Include="Assets\scripts\Draw.cs" />
-     <Compile Include="Assets\scripts\For1to3.cs" />
-     <Compile Include="Assets\scripts\Lvl3.cs" />
+     <Compile Include="Assets\scripts\GameProcess.cs" />
      <Compile Include="Assets\scripts\Stars.cs" />
      <Compile Include="Assets\scripts\UIManager.cs" />
  <Reference Include="UnityEngine.UI">
